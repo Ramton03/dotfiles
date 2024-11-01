@@ -1,0 +1,9 @@
+# Ignore everything
+*
+# Allow only specific folders
+!helix/**
+!mpv/**
+# Allow specific folders
+!helix/
+!mpv/
+!.gitignore
