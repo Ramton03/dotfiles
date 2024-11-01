@@ -2,7 +2,7 @@
 *
 # Allow only specific folders
 !helix/**
-!mpv/**
+!mpv/**/**
 # Allow specific folders
 !helix/
 !mpv/
